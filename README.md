@@ -22,9 +22,7 @@ _(nieuwste bovenaan; wat ik deed en waarom, niet hoe)_
 ### Vr 20 nov — Nieuwe repo opgezet
 
 **Wat deed ik:** Een nieuwe GitHub-repo gemaakt met het sjabloon van school als basis, zodat mijn herkansing een schone geschiedenis heeft.
-**Waarom:** Ik moet het blok opnieuw doorlopen en mijn proces zichtbaar maken. Een nieuwe repo laat per datum zien wat ik nu doe.
-**Wat leerde ik:** _(invullen, bijvoorbeeld wat de .git-map is en waarom ik hem moest weghalen)_
-**Bronnen / AI-gebruik:** _(invullen)_
+Ik heb feedback op mijn schetsen gekregen en op hoe ik mijn idee verder moet uitwerken met tips over Light/Dark mode
 
 ---
 
