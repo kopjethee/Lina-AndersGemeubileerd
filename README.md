@@ -23,6 +23,9 @@ _(nieuwste bovenaan; wat ik deed en waarom, niet hoe)_
 
 **Wat deed ik:** Een nieuwe GitHub-repo gemaakt met het sjabloon van school als basis, zodat mijn herkansing een schone geschiedenis heeft.
 Ik heb feedback op mijn schetsen gekregen en op hoe ik mijn idee verder moet uitwerken met tips over Light/Dark mode
+<img width="2048" height="1152" alt="Telefoon schatsen" src="https://github.com/user-attachments/assets/17fa8e8d-a22d-4431-b1e3-766d96b959f3" />
+<img width="1651" height="1152" alt="Eerste schets" src="https://github.com/user-attachments/assets/d7e56690-7a5c-4773-9c46-bd987f367fcb" />
+
 
 ---
 
