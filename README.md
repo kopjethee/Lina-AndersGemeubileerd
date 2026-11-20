@@ -44,11 +44,10 @@ Een digital garden is een persoonlijk plekje op het internet, waar er geen regel
 
 **Leg uit wat een website "webby" maakt en welke websites jou het meeste inspireren.**
 Ik vind het gebruik van grote pixels echt webby. Dus geen gladde vormen, maar echt typische digitale elementen.
-_(Welke websites inspireren mij het meeste: invullen.)_
 
 **Vertel waar jij mee aan de slag wilt gaan bij het maken van jouw eigen digital garden.**
 Ik wil aan de slag gaan met aparte elementen, iets wat je niet verwacht en net genoeg entertaint om je weer niet te irriteren. Een soort balans tussen die twee. Het lijkt me ook leuk om veel humor in mijn digital garden te verwerken, omdat ik persoonlijk veel van grappen houd. Als het lukt wil ik bewegende elementen erin stoppen.
-_(Aanvullen: mijn niche is unieke meubels en decorstukken, omdat ik gek ben op unieke stukken.)_
+mijn niche is unieke meubels en decorstukken geworden, omdat ik gek ben op unieke stukken.
 
 ---
 
