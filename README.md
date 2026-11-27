@@ -1,17 +1,16 @@
 # Learning log — Anders Gemeubileerd (herkansing)
 
-Mijn digital garden gaat over unieke meubels en decorstukken die je niet zomaar overal in huizen ziet. Dit is mijn herkansing van "Het web is voor iedereen". Ik schrijf per sessie direct na het werk op wat ik deed en waarom, en ik maak mijn website opnieuw met een andere look.
+Mijn digital garden gaat over unieke meubels en decorstukken die je niet zomaar overal in huizen ziet. Dit is mijn herkansing van "Het web is voor iedereen". Ik schrijf per sessie direct na het werk op wat ik deed en waarom, en ik bouw mijn website opnieuw.
 
 Repository: https://github.com/kopjethee/Lina-AndersGemeubileerd
 
 **Inhoud**
 
 1. [Log per sessie](#log-per-sessie)
-2. [Ontwerpproces](#ontwerpproces)
-3. [Checkout vragen](#checkout-vragen-eerste-weken)
-4. [Analyse 8 voorbeeldwebsites](#analyse-8-voorbeeldwebsites)
-5. [Bronnen en AI-gebruik](#bronnen-en-ai-gebruik)
-6. [Feedback en wat ik ermee deed](#feedback-en-wat-ik-ermee-deed)
+2. [Checkout vragen](#checkout-vragen-eerste-weken)
+3. [Ontwerpproces](#ontwerpproces)
+4. [Bronnen en AI-gebruik](#bronnen-en-ai-gebruik)
+5. [Feedback en wat ik ermee deed](#feedback-en-wat-ik-ermee-deed)
 
 ---
 
@@ -22,10 +21,10 @@ _(nieuwste bovenaan; wat ik deed en waarom, niet hoe)_
 ### Vr 20 nov — Nieuwe repo opgezet
 
 **Wat deed ik:** Een nieuwe GitHub-repo gemaakt met het sjabloon van school als basis, zodat mijn herkansing een schone geschiedenis heeft.
+**Waarom:** Ik wil een schone start met een duidelijke tijdlijn, zodat mijn proces in de herkansing zichtbaar is.
 Ik heb feedback op mijn schetsen gekregen en op hoe ik mijn idee verder moet uitwerken met tips over Light/Dark mode
 <img width="2048" height="1152" alt="Telefoon schatsen" src="https://github.com/user-attachments/assets/17fa8e8d-a22d-4431-b1e3-766d96b959f3" />
 <img width="1651" height="1152" alt="Eerste schets" src="https://github.com/user-attachments/assets/d7e56690-7a5c-4773-9c46-bd987f367fcb" />
-
 
 ---
 
@@ -45,25 +44,22 @@ Ik heb feedback op mijn schetsen gekregen en op hoe ik mijn idee verder moet uit
 **Opdracht 2 — Eigen verkenning**
 
 - **Wat wil ik zelf maken / wat vond ik interessant:** Ik vind het scrollen op een app als Pinterest bijvoorbeeld leuk, maar je wordt wel altijd overspoeld door advertenties of andere ongevraagde dingen als je naar iets specifieks zoekt. Daarom wil ik mijn tuintje een plek maken waar je alleen maar 1 soort categorie ziet, waar ik zelf veel interesse voor heb, en dat zijn unieke meubels. Dus ik maak mijn tuintje met meubilair waar ik uren naar kan kijken. Eigenlijk vind ik heel veel verschillende dingen interessant als het gaat om bijvoorbeeld kunst, maar om mezelf niet te overspoelen met teveel werk en ideeen heb ik ervoor gekozen 1 niche te gebruiken zodat het werken overzichtelijk blijft.
-  
 - **Welke webby dingen wil ik gebruiken:** De dingen die ik zie als webby, wil ik juist eigenlijk niet gebruiken. Omdat het nu gaat om een fysiek product wil ik de bezoeker van de site het gevoel geven dat ie echt in de woonkamer zit en vanuit de woonkamer kan navigeren naar externe pagina's. Dan vind ik het niet gepast om met pixelart / typografie te werken.
-  
 - **Gebruik ik content van een ander? Hoe maak ik het mijn eigen verhaal:** Ik zal waarschijnlijk foto's van meubilair gebruiken dat door anderen is gemaakt. Ik maak dat mijn eigen verhaal door het te specificeren naar dezelfde categorie meubels, maar dan van verschillende ontwerpers, op 1 plek, met MIJN smaak. Dus dan zie je eigenlijk wat ik mooi vind in een overzicht, wat het dan mijn verhaal maakt.
-  
 - **Hoe is mijn onderwerp te ervaren (beleven, voelen, zien, horen):** Ik heb er voor gekozen een woonkamer te maken als landingspage, dus je ervaart het als thuiskomen in een unieke woonkamer. Ik hoop dan ook een warm gevoel te kunnen overbrengen.
 
 **Opdracht 3 — Inspiratie verzamelen**
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c19c7ebd-4fea-4532-9274-f2d11fe294fb" />
 
+- **Wat deed ik:** Ik heb afbeeldingen en links verzameld voor mijn visuele onderzoek naar unieke meubels (zie de collage hierboven).
 - **Onderzoeksvragen die ik beantwoordde:** heden en verleden, associaties, symboliek/iconen, subcultuur, subonderwerpen. _(invullen wat ik vond)_
 - **Wat leerde ik / patronen die ik zag:** _(invullen)_
 
 **Wat ik geleerd heb (eigen woorden):** Ik heb geleerd hoe ik mijn onderwerp nu kan uitleggen en uitwerken tot een website.
 
-**Bronnen:** 
+**Bronnen:**
 Bron: Pinterest - unique furtniture
-https://youtu.be/-A6C6AlTE1I?si=s7BIyaH9plgpoSEM 
-
+https://youtu.be/-A6C6AlTE1I?si=s7BIyaH9plgpoSEM
 
 ## Checkout vragen (eerste weken)
 
@@ -79,31 +75,37 @@ mijn niche is unieke meubels en decorstukken geworden, omdat ik gek ben op uniek
 
 ---
 
-## Analyse 8 voorbeeldwebsites
+## Ontwerpproces
 
-Gemaakt op ma 7 september, tijdens de les "je onderwerp verkennen". Twee websites werkte ik zelf uit, de rest bespraken we in ons groepje.
-
-![Mijn webby-blad: per website wat wel of niet webby is en waarom](assets/images/log/2026-09-07-webby-blad.jpg)
-_Mijn webby-blad, waarop ik per website opschreef wat wel of niet webby is en waarom._
-
-### Website 1: _(naam + link invullen)_
-
-- **Wat is webby hieraan:**
-- **Wat is niet webby:**
-- **Wat neem ik hiervan mee:**
-
-### Website 2: _(naam + link invullen)_
-
-- **Wat is webby hieraan:**
-- **Wat is niet webby:**
-- **Wat neem ik hiervan mee:**
-
-### Wat we in het groepje bespraken
-
-_(één of twee zinnen)_
-
-### Mijn conclusie
-
-Voor mij is webby vooral typisch digitaal: grote pixels en geen gladde vormen.
+- **Sfeerwoord:** warm
+- **Concept:** Een woonkamer als landingspagina, zodat je ervaart dat je thuiskomt in een unieke woonkamer en vanuit daar naar andere pagina's navigeert.
+- **Kleur (en waarom):** _(hex-codes + reden)_
+- **Typografie (en waarom):** _(lettertypes + reden)_
+- **Vorm/beeld:** _(bijvoorbeeld foto's van meubels, en waarom)_
+- **Meerdere richtingen:** Op 20 november maakte ik schetsen (zie mijn log). Mijn keuze: _(welke schets, en waarom)_
+- **Ontwerpprincipes:** _(bijvoorbeeld visuele hiërarchie en gestalt, en waar je ze ziet)_
 
 ---
+
+## Bronnen en AI-gebruik
+
+Bronnen staan ook als comment in mijn code.
+
+**Afbeeldingen:** Pinterest (zoekterm "unique furniture"), _(datum)_. Gegenereerde afbeeldingen noteer ik apart, met tool, prompt en datum.
+
+**Lettertypes:** _(naam + link, bijvoorbeeld Google Fonts)_
+
+**Tools:** _(bijvoorbeeld W3C-validator, Squoosh, Lighthouse: alleen wat ik echt gebruikt heb)_
+
+**Lesstof:** Lesstof _Het web is voor iedereen_, HvA (DLO).
+
+**AI-gebruik:** Ik heb een AI-assistent gebruikt als gids voor uitleg en controle. Mijn ontwerp, content en code heb ik zelf gemaakt en kan ik uitleggen.
+
+---
+
+## Feedback en wat ik ermee deed
+
+| Datum  | Van wie      | Wat werd gezegd                                 | Wat doe ik ermee |
+| ------ | ------------ | ----------------------------------------------- | ---------------- |
+| 13 nov | _(invullen)_ | _(invullen)_                                    | _(invullen)_     |
+| 20 nov | _(invullen)_ | Tips over mijn schetsen en over light/dark mode | _(invullen)_     |
