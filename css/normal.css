@@ -1,18 +1,14 @@
-/**************************
-* MARK: Fonts
-**************************/
-
 @font-face {
   font-family: "Ms Madi";
   src: url("../fonts/jouwbestand.woff2") format("woff2");
 }
 
-/**************************
-* MARK: Custom properties
-**************************/
-
-html {
+:root {
   color-scheme: light dark;
+  --achtergrond: light-dark(#d9c6b0, #401d09);
+  --tekst: light-dark(#401d09, #d9c6b0);
+  --accent: light-dark(#a62014, #bf702a);
+  --rand: #8c6849;
 }
 
 /**************************
@@ -31,6 +27,8 @@ img {
 
 body {
   font-family: "Comic Relief", system-ui;
+  background-color: var(--achtergrond);
+  color: var(--tekst);
 }
 
 /**************************
