@@ -3,10 +3,8 @@
 **************************/
 
 @font-face {
-  font-family: "Comic Relief";
-  src: url(../fonts/ComicRelief-Regular.woff2);
-  font-weight: 400;
-  font-style: normal;
+  font-family: "Ms Madi";
+  src: url("../fonts/jouwbestand.woff2") format("woff2");
 }
 
 /**************************
