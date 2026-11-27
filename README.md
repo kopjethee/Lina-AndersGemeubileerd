@@ -28,12 +28,35 @@ Ik heb feedback op mijn schetsen gekregen en op hoe ik mijn idee verder moet uit
 
 ---
 
-## Ontwerpproces
+### Ma 16 nov — Verkenning onderwerp
 
-- **Sfeerwoord:**
-- **Waarom een andere look dan de vorige keer:**
-- **Kleuren en lettertypes (en waarom):**
-- **Schetsen (foto's met datum) en mijn keuze:**
+**De opdracht (sprint 1):** Maak een digital garden waarin mensen kunnen ervaren hoe ik mijn onderwerp beleef, voel, zie en hoor. Eerst een visueel en inhoudelijk onderzoek, daarna schetsen vertalen naar HTML en CSS, en tot slot kritisch bekijken en verbeteren. Deze week: bestaande digital gardens analyseren, een eigen verkenning schrijven en 50 afbeeldingen verzamelen.
+
+**Opdracht 1 — Rangschikken (webby-analyse)**
+
+- **Wat deed ik:** _(welke twee websites analyseerde ik met het werkvel?)_
+- **Waarom (wat vond ik webby of niet):** _(invullen)_
+- **Wat werd de uitkomst in de groep (meest/minst webby, en waarom):** _(invullen)_
+
+**Opdracht 2 — Eigen verkenning**
+
+- **Wat wil ik zelf maken / wat vond ik interessant:** _(invullen)_
+- **Welke webby dingen wil ik gebruiken:** _(invullen)_
+- **Eigen content, toon, doel, wat raakt mij:** _(invullen)_
+- **Gebruik ik content van een ander? Hoe maak ik het mijn eigen verhaal:** _(invullen)_
+- **Hoe is mijn onderwerp te ervaren (beleven, voelen, zien, horen):** _(invullen)_
+
+**Opdracht 3 — Inspiratie verzamelen**
+
+- **Wat deed ik:** 50 afbeeldingen en links verzameld in mijn presentatie. _(invullen: hoeveel het er werden)_
+- **Onderzoeksvragen die ik beantwoordde:** heden en verleden, associaties, symboliek/iconen, subcultuur, subonderwerpen. _(invullen wat ik vond)_
+- **Wat leerde ik / patronen die ik zag:** _(invullen)_
+
+**Wat ik geleerd heb (eigen woorden):** _(invullen)_
+
+**Bronnen:** _(links en afbeeldingbronnen)_
+
+**AI-gebruik:** _(invullen of "geen")_
 
 ---
 
