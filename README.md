@@ -26,7 +26,6 @@ Ik heb feedback op mijn schetsen gekregen en op hoe ik mijn idee verder moet uit
 <img width="2048" height="1152" alt="Telefoon schatsen" src="https://github.com/user-attachments/assets/17fa8e8d-a22d-4431-b1e3-766d96b959f3" />
 <img width="1651" height="1152" alt="Eerste schets" src="https://github.com/user-attachments/assets/d7e56690-7a5c-4773-9c46-bd987f367fcb" />
 
-
 ---
 
 ## Ontwerpproces
@@ -80,47 +79,3 @@ _(één of twee zinnen)_
 Voor mij is webby vooral typisch digitaal: grote pixels en geen gladde vormen.
 
 ---
-
-## Bronnen en AI-gebruik
-
-Bronnen staan ook als comment in mijn code.
-
-### Afbeeldingen (alleen echte afbeeldingen, geen AI-afbeeldingen)
-
-| #   | Wat                                                              | Maker / bron                                                          | Link                               | Licentie                                  | Waar gebruikt | Wat ik eraan veranderde                  |
-| --- | ---------------------------------------------------------------- | --------------------------------------------------------------------- | ---------------------------------- | ----------------------------------------- | ------------- | ---------------------------------------- |
-| 1   | Stoel, ca. 1700, notenhout met riet en bloemenstof (BK-NM-10603) | Anoniem, Noordelijke Nederlanden; collectie Rijksmuseum, aankoop 1896 | https://id.rijksmuseum.nl/20042232 | Public Domain (CC Public Domain Mark 1.0) | _(pagina)_    | Verkleind naar ±800 px breed met Squoosh |
-| 2   | Canapé _(titel)_                                                 | Rijksmuseum _(maker + objectnummer)_                                  | _(link)_                           | Public Domain                             | _(pagina)_    | Verkleind met Squoosh                    |
-| 3   | Lamp _(titel)_ (BK-NM-11177-143)                                 | Rijksmuseum _(maker)_                                                 | _(link)_                           | Public Domain                             | _(pagina)_    | Verkleind met Squoosh                    |
-| 4   | Kaarsenkroon _(titel)_ (BK-NM-3512-11)                           | Rijksmuseum _(maker)_                                                 | _(link)_                           | Public Domain                             | _(pagina)_    | Verkleind met Squoosh                    |
-
-### Lettertypes, code en tools
-
-| Wat                     | Bron + link                                                          | Licentie     | Wat ik eraan veranderde        |
-| ----------------------- | -------------------------------------------------------------------- | ------------ | ------------------------------ |
-| Ms Madi                 | Google Fonts, https://fonts.google.com/specimen/Ms+Madi              | OFL          | Niets                          |
-| IM Fell French Canon    | Google Fonts, https://fonts.google.com/specimen/IM+Fell+French+Canon | OFL          | Niets                          |
-| Seraphs (variabel font) | _(bron + link invullen)_                                             | _(invullen)_ | Niets                          |
-| W3C HTML-validator      | https://validator.w3.org/nu/                                         | n.v.t.       | Mijn HTML gecontroleerd        |
-| W3C CSS-validator       | https://jigsaw.w3.org/css-validator/                                 | n.v.t.       | Mijn CSS gecontroleerd         |
-| Wakamai Fondue          | https://wakamaifondue.com                                            | n.v.t.       | Variabelen van Seraphs bekeken |
-| Squoosh                 | https://squoosh.app                                                  | n.v.t.       | Afbeeldingen verkleind         |
-| Lighthouse              | Chrome DevTools                                                      | n.v.t.       | Toegankelijkheid gemeten       |
-
-### Lesstof
-
-- Lesstof _Het web is voor iedereen_, HvA, blok 1 2026/27 (DLO).
-- Songtekst voor het typografie-experiment: _Let it happen_ (Tame Impala).
-- _(per les: artikelen of video's die ik echt gebruikt heb, met titel, auteur en link)_
-
-### AI-gebruik
-
-Ik heb een AI-assistent gebruikt als gids: voor uitleg van lesstof en code, en voor controle van wat ik zelf schreef. Mijn ontwerp, content en code heb ik zelf gemaakt en kan ik uitleggen.
-
----
-
-## Feedback en wat ik ermee deed
-
-| Datum | Van wie | Wat werd gezegd | Wat doe ik ermee |
-| ----- | ------- | --------------- | ---------------- |
-|       |         |                 |                  |
